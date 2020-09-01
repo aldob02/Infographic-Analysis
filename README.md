@@ -1,2 +1,2 @@
 # Infographic_Analysis
-first program
+First program
