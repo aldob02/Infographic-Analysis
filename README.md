@@ -1,2 +1,2 @@
 # Infographic_Analysis
-First program
+First program that I used GUI in
